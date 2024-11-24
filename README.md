@@ -13,7 +13,7 @@ Custom message on Neofetch ("Do mess with things that don't exist)
 
 # Time Taken
 Time logged: 0:37 (Another hour got filed under "unknown")  
-[Badge]([https://waka.hackclub.com/api/badge/U081686E34P/interval:today/project:-](https://waka.hackclub.com/api/badge/U081686E34P/interval:any/project:Mei-Misaki-My-Beloved))  
+[Badge](https://waka.hackclub.com/api/badge/U081686E34P/interval:any/project:Mei-Misaki-My-Beloved)  
   
 ![image](time.png)    
 
