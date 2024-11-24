@@ -13,10 +13,10 @@ Custom message on Neofetch ("Do mess with things that don't exist)
 
 # Time Taken
 Time logged: 0:51  
-![image](https://waka.hackclub.com/api/badge/U081686E34P/interval:today/project:-)  
+![image]([https://waka.hackclub.com/api/badge/U081686E34P/interval:today/project:-](https://waka.hackclub.com/api/badge/U081686E34P/interval:today/project:-))  
   
 ![image](time.png)  
-Note - Yes, my Hackatime is severely bugged out for who knows why and as of writing is displaying 0:00 on the sticker  
+Note - Yes, my Hackatime is severely bugged out because of who knows why and as of writing is displaying 0:00 on the sticker  
 
 Actual: About a week given time to install, do research, and implement everything  
 
