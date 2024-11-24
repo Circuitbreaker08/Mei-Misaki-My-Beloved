@@ -11,4 +11,8 @@ VSCode theme: Doki Theme: Chuunibyo: Rikka (Rikka Takanashi is half of the reaso
 Custom CLI prompt coloration
 Custom message on Neofetch ("Do mess with things that don't exist)
 
+# Time Taken
+Time logged: Null
+Actual: About a week given time to install, do research, and add stuff
+
 # Gallery
