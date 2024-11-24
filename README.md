@@ -2,7 +2,7 @@
 Ricing Arch Linux  
 
 Part of the Hackclub Riceathon  
-Dedicated to my obsession with Mei Misaki from Another  
+Dedicated to my obsession with Mei Misaki from Another (and Programmer Socks)  
 
 # Features
 Another: Mei Misaki Background  
