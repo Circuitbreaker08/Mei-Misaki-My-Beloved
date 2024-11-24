@@ -13,7 +13,7 @@ Custom message on Neofetch ("Do mess with things that don't exist)
 
 # Time Taken
 Time logged: 0:51  
-[Bugged out bade because Github is doing ??? to my image links](https://waka.hackclub.com/api/badge/U081686E34P/interval:today/project:-)  
+[Bugged out badge because Github is doing ??? to my image links](https://waka.hackclub.com/api/badge/U081686E34P/interval:today/project:-)  
   
 ![image](time.png)  
 Note - Yes, my Hackatime is severely bugged out because of who knows why and as of writing is displaying 0:00 on the sticker  
